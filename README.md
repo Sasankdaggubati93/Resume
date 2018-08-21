@@ -1,7 +1,2 @@
 # Resume
-
-<html>
-<body>
-  <a href= "http://Sasankdaggubati93.github.io/Resume/" rel="noFollow">Resume</a>
-</body>
-</html>
+[Resume](https://github.com/Sasankdaggubati93/Resume/blob/master/index.html)
